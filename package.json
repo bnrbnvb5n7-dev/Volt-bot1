@@ -1,0 +1,11 @@
+{
+  "name": "volt-bot",
+  "version": "1.0.0",
+  "main": "volt 4.js",
+  "scripts": {
+    "start": "node \"volt 4.js\""
+  },
+  "dependencies": {
+    "discord.js": "^14.21.0"
+  }
+}
